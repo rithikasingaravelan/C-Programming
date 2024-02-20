@@ -1,3 +1,4 @@
+//Question: Write a C program to display all array elements using recursion.
 #include<stdio.h>
 void printArray(int size, int arr[]){
 	if(size>=0){
